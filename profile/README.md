@@ -37,6 +37,7 @@ kodo   code
 | Repository | What |
 |---|---|
 | [verkodo](https://github.com/verkodo/verkodo) | the software and its documentation ([verkodo.github.io/verkodo](https://verkodo.github.io/verkodo/)) – `cargo install verkodo` |
+| [sciaro](https://github.com/verkodo/sciaro) | the body of knowledge – mathematics and law written in verkodo, sourced and checked by Lean; first: § 19 UStG |
 | [brand](https://github.com/verkodo/brand) | the brand kit – logo, colours, icons |
 | [whitepaper](https://github.com/verkodo/whitepaper) | the whitepaper – Markdown, set to PDF with Typst |
 | [website](https://github.com/verkodo/website) | the landing page ([verkodo.github.io/website](https://verkodo.github.io/website/)) |
